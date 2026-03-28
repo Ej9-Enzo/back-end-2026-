@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1773492050385,
+    "nome": "Espada",
+    "quantidade": 1,
+    "categoria": "Arma"
+  },
+  {
+    "id": 1773492050399,
+    "nome": "Escudo",
+    "quantidade": 1,
+    "categoria": "Defesa"
+  },
+  {
+    "id": 1773492050401,
+    "nome": "Poção de Vida",
+    "quantidade": 5,
+    "categoria": "Consumível"
+  },
+  {
+    "id": 1773492231333,
+    "nome": "Espada",
+    "quantidade": 1,
+    "categoria": "Arma"
+  },
+  {
+    "id": 1773492231335,
+    "nome": "Escudo",
+    "quantidade": 1,
+    "categoria": "Defesa"
+  },
+  {
+    "id": 1773492231336,
+    "nome": "Poção de Vida",
+    "quantidade": 5,
+    "categoria": "Consumível"
+  },
+  {
+    "id": 1773492351103,
+    "nome": "Espada",
+    "quantidade": 1,
+    "categoria": "Arma"
+  },
+  {
+    "id": 1773492351105,
+    "nome": "Escudo",
+    "quantidade": 1,
+    "categoria": "Defesa"
+  },
+  {
+    "id": 1773492351106,
+    "nome": "Poção de Vida",
+    "quantidade": 5,
+    "categoria": "Consumível"
+  }
+]
